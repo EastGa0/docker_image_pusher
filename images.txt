@@ -1,2 +1,2 @@
-fireflyiii/data-importer:version-1.3.12
---platform=linux/386
+mariadb:lts
+--platform=linux/amd64
