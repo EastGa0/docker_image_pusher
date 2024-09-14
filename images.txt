@@ -1,2 +1,2 @@
-alpine:latest
+fireflyiii/core:version-6.1.19
 --platform=linux/amd64
